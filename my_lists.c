@@ -1,6 +1,6 @@
 #include "shell.h"
 /**
- * frees_list - frees all nodes of a list
+ * free_list - frees all nodes of a list
  * @head_pointer: address of pointer to headnode
  *
  * Return: void
